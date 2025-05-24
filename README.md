@@ -33,7 +33,7 @@ This course provides a practical introduction to how operating systems work, wit
 /operating-systems-in-c/
 ├── 01_memory_and_pointers/
 ├── 02_processes_and_threads/
-├── 03_scheduling/
+├── 03_pipes/
 ├── 04_synchronization/
 ├── 05_file_systems/
 ├── diagrams/
