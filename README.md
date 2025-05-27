@@ -37,6 +37,6 @@ This course provides a practical introduction to how operating systems work, wit
 ├── 04_threads/
 ├── 05_file_systems/
 ├── diagrams/
-├── examples/
+├── samples/
 └── README.md
 ```
