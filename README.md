@@ -34,7 +34,7 @@ This course provides a practical introduction to how operating systems work, wit
 ├── 01_memory_and_pointers/
 ├── 02_processes_and_threads/
 ├── 03_pipes/
-├── 04_synchronization/
+├── 04_threads/
 ├── 05_file_systems/
 ├── diagrams/
 ├── examples/
