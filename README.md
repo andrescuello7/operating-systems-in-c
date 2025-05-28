@@ -9,11 +9,10 @@ Welcome to the **Operating Systems in C** course! This repository contains all t
 This course provides a practical introduction to how operating systems work, with emphasis on:
 
 - Memory Management
-- Pointers and Dynamic Allocation
-- Processes and Multithreading
-- File Systems and I/O
-- Scheduling and Synchronization
-- System Calls and Interfacing with the Kernel
+- Process in system
+- Pipes
+- Threads
+- File Systems
 
 ---
 
